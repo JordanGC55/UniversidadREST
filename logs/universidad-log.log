@@ -1,0 +1,6 @@
+2022-05-14 17:48:47,939 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8081"]
+2022-05-14 17:48:47,973 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8081 (http) with context path ''
+2022-05-14 17:48:47,984 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started UniversidadesRestApplication in 7.48 seconds (JVM running for 8.834)
+2022-05-14 17:49:22,449 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-05-14 17:49:22,466 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-05-14 17:49:22,474 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.

@@ -1,0 +1,40 @@
+2022-05-12 17:22:54,210 INFO com.ibm.academia.apirest.controllers.PrimerRestCotroller [http-nio-8081-exec-6] info log
+2022-05-12 17:22:54,220 WARN com.ibm.academia.apirest.controllers.PrimerRestCotroller [http-nio-8081-exec-6] warning log
+2022-05-12 17:22:54,221 ERROR com.ibm.academia.apirest.controllers.PrimerRestCotroller [http-nio-8081-exec-6] error log
+2022-05-12 17:22:55,758 INFO com.ibm.academia.apirest.controllers.PrimerRestCotroller [http-nio-8081-exec-7] info log
+2022-05-12 17:22:55,760 WARN com.ibm.academia.apirest.controllers.PrimerRestCotroller [http-nio-8081-exec-7] warning log
+2022-05-12 17:22:55,771 ERROR com.ibm.academia.apirest.controllers.PrimerRestCotroller [http-nio-8081-exec-7] error log
+2022-05-12 17:22:58,309 INFO com.ibm.academia.apirest.controllers.PrimerRestCotroller [http-nio-8081-exec-8] info log
+2022-05-12 17:22:58,310 WARN com.ibm.academia.apirest.controllers.PrimerRestCotroller [http-nio-8081-exec-8] warning log
+2022-05-12 17:22:58,310 ERROR com.ibm.academia.apirest.controllers.PrimerRestCotroller [http-nio-8081-exec-8] error log
+2022-05-12 17:22:59,421 INFO com.ibm.academia.apirest.controllers.PrimerRestCotroller [http-nio-8081-exec-9] info log
+2022-05-12 17:22:59,422 WARN com.ibm.academia.apirest.controllers.PrimerRestCotroller [http-nio-8081-exec-9] warning log
+2022-05-12 17:22:59,422 ERROR com.ibm.academia.apirest.controllers.PrimerRestCotroller [http-nio-8081-exec-9] error log
+2022-05-12 17:49:12,528 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-05-12 17:49:12,537 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-05-12 17:49:12,561 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-05-12 17:49:29,738 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.3.Final
+2022-05-12 17:49:29,760 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting UniversidadesRestApplication using Java 11.0.13 on LAPTOP-IQ104NSE with PID 13044 (C:\Users\106860781\Documents\Microservicios Java\UniversidadesREST\target\classes started by 106860781 in C:\Users\106860781\Documents\Microservicios Java\UniversidadesREST)
+2022-05-12 17:49:29,764 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-05-12 17:49:29,888 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-12 17:49:29,889 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-12 17:49:31,692 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-12 17:49:31,838 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 121 ms. Found 4 JPA repository interfaces.
+2022-05-12 17:49:33,660 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8081 (http)
+2022-05-12 17:49:33,685 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8081"]
+2022-05-12 17:49:33,685 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-05-12 17:49:33,698 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-12 17:49:33,957 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-05-12 17:49:33,958 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 4068 ms
+2022-05-12 17:49:34,252 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-12 17:49:34,338 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-05-12 17:49:34,632 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-05-12 17:49:34,828 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2022-05-12 17:49:35,231 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2022-05-12 17:49:35,298 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-05-12 17:49:37,451 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-12 17:49:37,481 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-12 17:49:39,582 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-12 17:49:40,070 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-05-12 17:49:40,483 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8081"]
+2022-05-12 17:49:40,540 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8081 (http) with context path ''
